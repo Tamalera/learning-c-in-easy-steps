@@ -1,0 +1,7 @@
+.vscode
+# Compiled files
+*.exe
+# Temporary files
+*.i
+*.s
+*.o
